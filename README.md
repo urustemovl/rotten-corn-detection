@@ -1,2 +1,2 @@
 # rotten-corn-detection
-Object-detection model that identifies rotten and healthy corns
+An object-detection model for identifying rotten and healthy corn. A dataset of 280 images was collected and used to train the model using Roboflow.
